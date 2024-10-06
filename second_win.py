@@ -55,18 +55,4 @@ class TextWin(QWidget):
         self.setLayout(self.h_line)
     def connect(self):
         pass
-app = QApplication([])
-mw = TextWin()
-
-
-
-
-
-
-
-
-
-
-
-app.exec()
     
